@@ -1,0 +1,12 @@
+org.devio.flutter.flutter_splash_screen-core-1.6.0-0 C:\Users\LENOVO\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+org.devio.flutter.flutter_splash_screen-jetified-window-java-1.0.0-beta04-1 C:\Users\LENOVO\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+org.devio.flutter.flutter_splash_screen-jetified-annotation-experimental-1.1.0-2 C:\Users\LENOVO\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+org.devio.flutter.flutter_splash_screen-jetified-window-1.0.0-beta04-3 C:\Users\LENOVO\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+org.devio.flutter.flutter_splash_screen-main-4 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_splash_screen-3.0.0\android\src\main\res
+org.devio.flutter.flutter_splash_screen-release-5 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_splash_screen-3.0.0\android\src\release\res
+org.devio.flutter.flutter_splash_screen-pngs-6 C:\Users\LENOVO\Desktop\Flutter Learning\Disaster Hackathon App\disaster_hackathon_app\build\flutter_splash_screen\generated\res\pngs\release
+org.devio.flutter.flutter_splash_screen-resValues-7 C:\Users\LENOVO\Desktop\Flutter Learning\Disaster Hackathon App\disaster_hackathon_app\build\flutter_splash_screen\generated\res\resValues\release
+org.devio.flutter.flutter_splash_screen-rs-8 C:\Users\LENOVO\Desktop\Flutter Learning\Disaster Hackathon App\disaster_hackathon_app\build\flutter_splash_screen\generated\res\rs\release
+org.devio.flutter.flutter_splash_screen-mergeReleaseResources-9 C:\Users\LENOVO\Desktop\Flutter Learning\Disaster Hackathon App\disaster_hackathon_app\build\flutter_splash_screen\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.devio.flutter.flutter_splash_screen-mergeReleaseResources-10 C:\Users\LENOVO\Desktop\Flutter Learning\Disaster Hackathon App\disaster_hackathon_app\build\flutter_splash_screen\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.devio.flutter.flutter_splash_screen-merged_res-11 C:\Users\LENOVO\Desktop\Flutter Learning\Disaster Hackathon App\disaster_hackathon_app\build\flutter_splash_screen\intermediates\merged_res\release

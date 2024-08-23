@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "org.devio.flutter.flutter_splash_screen-merged_res-10:/layout-v21/notification_template_custom_big.xml",
+        "source": "org.devio.flutter.flutter_splash_screen-core-1.6.0-0:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "org.devio.flutter.flutter_splash_screen-merged_res-10:/layout-v21/notification_action_tombstone.xml",
+        "source": "org.devio.flutter.flutter_splash_screen-core-1.6.0-0:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.devio.flutter.flutter_splash_screen-merged_res-10:/layout-v21/notification_template_icon_group.xml",
+        "source": "org.devio.flutter.flutter_splash_screen-core-1.6.0-0:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "org.devio.flutter.flutter_splash_screen-merged_res-10:/layout-v21/notification_action.xml",
+        "source": "org.devio.flutter.flutter_splash_screen-core-1.6.0-0:/layout-v21/notification_action.xml"
+    }
+]
